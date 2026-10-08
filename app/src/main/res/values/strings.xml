@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lexus_launcher</string>
+    <string name="accessibility_description">Интеграция интерфейса Lexus OS</string>
+</resources>
